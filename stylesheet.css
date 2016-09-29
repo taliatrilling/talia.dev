@@ -1,0 +1,33 @@
+body {
+	font-family: "Arial Black", Gadget, sans-serif;
+	background-color: "#E1FCFF";
+	font-size: 30px;
+	
+}
+h1 {
+	padding: 50px 30px 50px 30px;
+	background-color: "#E1FCFF";
+}
+p1 {
+	border-style: solid;
+	border-width: small;
+	border-color: "blue";
+	border-radius: 5px;
+	padding: 50px 30px 50px 30px;
+}
+
+p2 {
+	border-style: solid;
+	border-width: small;
+	border-color: "blue";
+	border-radius: 5px;
+	padding: 50px 30px 50px 30px;
+}
+
+p3 {
+	border-style: solid;
+	border-width: small;
+	border-color: "blue";
+	border-radius: 5px;
+	padding: 50px 30px 50px 30px;
+}
