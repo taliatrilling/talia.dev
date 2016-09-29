@@ -1,6 +1,6 @@
 body {
 	font-family: "Arial Black", Gadget, sans-serif;
-	background-color: "#E1FCFF";
+	background-color: #ffe1ed;
 	font-size: 30px;
 	
 }
@@ -11,7 +11,7 @@ h1 {
 p1 {
 	border-style: solid;
 	border-width: small;
-	border-color: "blue";
+	border-color: #e1fcff;
 	border-radius: 5px;
 	padding: 50px 30px 50px 30px;
 }
@@ -19,7 +19,7 @@ p1 {
 p2 {
 	border-style: solid;
 	border-width: small;
-	border-color: "blue";
+	border-color: #e1fcff;
 	border-radius: 5px;
 	padding: 50px 30px 50px 30px;
 }
@@ -27,7 +27,7 @@ p2 {
 p3 {
 	border-style: solid;
 	border-width: small;
-	border-color: "blue";
+	border-color: #e1fcff;
 	border-radius: 5px;
 	padding: 50px 30px 50px 30px;
 }
