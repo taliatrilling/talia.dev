@@ -1,8 +1,23 @@
 body {
 	font-family: "Arial Black", Gadget, sans-serif;
-	background-color: #ffe1ed;
+	color: #ffe1ed;
+	background-image: url("IMG_8369.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
 	font-size: 30px;
-	
+}
+
+a:link {
+	color: #ffe1ed;
+}
+
+a: visited {
+	color: #ff95bf;
+}
+
+a:hover {
+	color: #ff95bf;
 }
 h1 {
 	padding: 50px 30px 50px 30px;
@@ -11,7 +26,7 @@ h1 {
 p1 {
 	border-style: solid;
 	border-width: small;
-	border-color: #e1fcff;
+	border-color: #ffe1ed;
 	border-radius: 5px;
 	padding: 50px 30px 50px 30px;
 }
@@ -19,7 +34,7 @@ p1 {
 p2 {
 	border-style: solid;
 	border-width: small;
-	border-color: #e1fcff;
+	border-color: #ffe1ed;
 	border-radius: 5px;
 	padding: 50px 30px 50px 30px;
 }
@@ -27,7 +42,7 @@ p2 {
 p3 {
 	border-style: solid;
 	border-width: small;
-	border-color: #e1fcff;
+	border-color: #ffe1ed;
 	border-radius: 5px;
 	padding: 50px 30px 50px 30px;
 }
