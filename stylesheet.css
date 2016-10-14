@@ -23,6 +23,17 @@ body {
     background: linear-gradient(#d7c6cf, #fbf9fa) fixed; 
 }
 
+.name {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 50px;
+	text-align: right;
+}
+
+.name-info {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 20px;
+	text-align: right;
+}
 .who {
 	font-family: 'Bungee Shade', cursive;
 	font-size: 100px
