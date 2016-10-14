@@ -1,48 +1,46 @@
+.navbar {
+	background-color: #8caba8;
+	font-family: 'Bungee', cursive;
+}
+
+.thumbnail {
+	text-align: center;
+	background-color: #dfdfde;
+}
+
+.jumbotron {
+	font-family: 'Bungee', cursive;
+	text-align: justify;
+	background: #a2798f;
+	font-size: 25px
+}
+
 body {
-	font-family: "Arial Black", Gadget, sans-serif;
-	color: #ffe1ed;
-	background-image: url("IMG_8369.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-attachment: fixed;
-	font-size: 30px;
+	/*font-family: "Arial Black", Gadget, sans-serif;*/
+	background: -webkit-linear-gradient(#d7c6cf, #fbf9fa) fixed;
+    background: -o-linear-gradient(#d7c6cf, #fbf9fa) fixed; 
+    background: -moz-linear-gradient(#d7c6cf, #fbf9fa) fixed; 
+    background: linear-gradient(#d7c6cf, #fbf9fa) fixed; 
 }
 
-a:link {
-	color: #ffe1ed;
+.who {
+	font-family: 'Bungee Shade', cursive;
+	font-size: 100px
 }
 
-a:visited {
-	color: #ff95bf;
+.btn {
+	background-color: #a2798f;
+	color: #dfdfde;
 }
 
-a:hover {
-	color: #ff95bf;
-}
-h1 {
-	padding: 50px 30px 50px 30px;
+h3 {
+	color: #8caba8;
+	font-family: 'Bungee', cursive;
 }
 
-p1 {
-	border-style: solid;
-	border-width: small;
-	border-color: #ffe1ed;
-	border-radius: 5px;
-	padding: 50px 30px 50px 30px;
+footer {
+	font-family: 'Bungee', cursive;
+	text-align: center
+
 }
 
-p2 {
-	border-style: solid;
-	border-width: small;
-	border-color: #ffe1ed;
-	border-radius: 5px;
-	padding: 50px 30px 50px 30px;
-}
-
-p3 {
-	border-style: solid;
-	border-width: small;
-	border-color: #ffe1ed;
-	border-radius: 5px;
-	padding: 50px 30px 50px 30px;
-}
