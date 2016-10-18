@@ -8,15 +8,23 @@
 	background-color: #dfdfde;
 }
 
-.jumbotron {
+.jumbotron.credit{
 	font-family: 'Bungee', cursive;
 	text-align: justify;
 	background: #a2798f;
 	font-size: 25px
 }
 
+.jumbotron.aboutme {
+	font-family: 'BioRhyme', serif;
+	font-size: 20px;
+}
+
+.pic {
+	width: 70%;
+}
+
 body {
-	/*font-family: "Arial Black", Gadget, sans-serif;*/
 	background: -webkit-linear-gradient(#d7c6cf, #fbf9fa) fixed;
     background: -o-linear-gradient(#d7c6cf, #fbf9fa) fixed; 
     background: -moz-linear-gradient(#d7c6cf, #fbf9fa) fixed; 
@@ -25,18 +33,25 @@ body {
 
 .name {
 	font-family: 'Bungee Shade', cursive;
-	font-size: 50px;
-	text-align: right;
+	font-size: 60px;
+	text-align: left;
 }
 
 .name-info {
-	font-family: 'Bungee Shade', cursive;
+	font-family: 'Bungee', cursive;
 	font-size: 20px;
-	text-align: right;
+	text-align: left;
 }
 .who {
 	font-family: 'Bungee Shade', cursive;
-	font-size: 100px
+	font-size: 100px;
+	text-align: right;
+}
+
+.why {
+	font-size: 25px;
+	font-family: 'Bungee', cursive;
+	text-align: left;
 }
 
 .btn {
