@@ -70,8 +70,13 @@ footer {
 
 }
 
-#project-title {
+.project-title {
 	font-family: 'Bungee Shade', cursive;
 	font-size: 50px;
+}
+
+#citation1 {
+	font-family: 'BioRhyme', serif;
+	font-size: 20px;
 }
 
