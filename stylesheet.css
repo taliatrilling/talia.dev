@@ -1,6 +1,30 @@
 .navbar {
-	background-color: #8caba8;
-	font-family: 'Bungee', cursive;
+	background-color: #F46197;
+	font-family: 'VT323', monospace;
+	color: #EEABC4;
+	font-size: 30px;
+}
+
+.navbar a:link {
+	background-color: #F46197;
+	color: #EEABC4;
+}
+
+.navbar a:visited {
+	background-color: #F46197;
+	color: #EEABC4;
+}
+
+.navbar a:hover {
+	background-color: #F46197 !important;
+	color: white;
+}
+
+
+.navbar-brand {
+	background-color: #F46197;
+	font-size: 40px;
+	color: #EEABC4;
 }
 
 .thumbnail {
@@ -8,10 +32,11 @@
 	background-color: #dfdfde;
 }
 
+
 .jumbotron.credit{
 	font-family: 'Bungee', cursive;
 	text-align: justify;
-	background: #a2798f;
+	background: #4B2840;
 	font-size: 25px
 }
 
@@ -27,43 +52,47 @@
 }
 
 body {
-	background: -webkit-linear-gradient(#d7c6cf, #fbf9fa) fixed;
-    background: -o-linear-gradient(#d7c6cf, #fbf9fa) fixed; 
-    background: -moz-linear-gradient(#d7c6cf, #fbf9fa) fixed; 
-    background: linear-gradient(#d7c6cf, #fbf9fa) fixed; 
+	background: -webkit-linear-gradient(#f1c0dd, #fbf9fa) fixed;
+    background: -o-linear-gradient(#f1c0dd, #fbf9fa) fixed; 
+    background: -moz-linear-gradient(#f1c0dd, #fbf9fa) fixed; 
+    background: linear-gradient(#f1c0dd, #fbf9fa) fixed; 
 }
 
+
+/*make sections more like dynamic boxes?
+*/
 .name {
-	font-family: 'Bungee Shade', cursive;
+	font-family: 'Bungee', cursive;
 	font-size: 60px;
 	text-align: left;
 }
 
 .name-info {
-	font-family: 'Bungee', cursive;
-	font-size: 20px;
+	font-family: 'VT323', monospace;
+	font-size: 25px;
 	text-align: left;
 }
 .who {
-	font-family: 'Bungee Shade', cursive;
+	font-family: 'VT323', monospace;
 	font-size: 100px;
 	text-align: right;
 }
 
 .why {
-	font-size: 25px;
-	font-family: 'Bungee', cursive;
+	font-size: 30px;
+	font-family: 'VT323', monospace;
 	text-align: left;
 }
 
 .btn {
-	background-color: #a2798f;
+	background-color: #F46197;
 	color: #dfdfde;
 }
 
 h3 {
-	color: #8caba8;
+	color: #EEABC4;
 	font-family: 'Bungee', cursive;
+	font-size: 20px;
 }
 
 footer {
@@ -75,6 +104,10 @@ footer {
 .project-title {
 	font-family: 'Bungee Shade', cursive;
 	font-size: 50px;
+}
+
+.project-subtitle {
+	font-size: 30px;
 }
 
 #citation1 {
