@@ -6,16 +6,21 @@
 }
 
 .navbar a:link {
-	background-color: #F46197;
+	background-color: #F46197 !important;
 	color: #EEABC4;
 }
 
 .navbar a:visited {
-	background-color: #F46197;
+	background-color: #F46197 !important;
 	color: #EEABC4;
 }
 
 .navbar a:hover {
+	background-color: #F46197 !important;
+	color: white;
+}
+
+.navbar a:active {
 	background-color: #F46197 !important;
 	color: white;
 }
@@ -36,7 +41,7 @@
 .jumbotron.credit{
 	font-family: 'Bungee', cursive;
 	text-align: justify;
-	background: #4B2840;
+	background: #F46197;
 	font-size: 25px
 }
 
@@ -58,9 +63,6 @@ body {
     background: linear-gradient(#f1c0dd, #fbf9fa) fixed; 
 }
 
-
-/*make sections more like dynamic boxes?
-*/
 .name {
 	font-family: 'Bungee', cursive;
 	font-size: 60px;
@@ -97,8 +99,26 @@ h3 {
 
 footer {
 	font-family: 'Bungee', cursive;
-	text-align: center
+	text-align: center;
+	color: #EEABC4;
+}
 
+footer a:link {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	color: #EEABC4;
+}
+
+footer a:visited {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	color: #EEABC4;
+}
+
+footer a:hover {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	color: #EEABC4;
 }
 
 .project-title {
