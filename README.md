@@ -1,4 +1,4 @@
-# taliatrilling.github.io
+# talia.dev
 
   - Built in HTML/CSS and hosted on GitHub Pages
   - Showcasing major coding projects, Psychology honors thesis and research
